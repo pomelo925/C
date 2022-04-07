@@ -9,7 +9,7 @@
 void findPrime(int index[]); //find the prime of array
 void SOE(int index[]); //Sieve of Eratosthenes
 void printPrime(int index[]); //print prime members
-
+ 
 
 int main(){
     int index[999];
